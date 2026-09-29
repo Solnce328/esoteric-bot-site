@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://solnce328.github.io/esoteric-bot-site/</loc><changefreq>weekly</changefreq></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://solnce328.github.io/esoteric-bot-site/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://solnce328.github.io/esoteric-bot-site/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://solnce328.github.io/esoteric-bot-site/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://solnce328.github.io/esoteric-bot-site/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://solnce328.github.io/esoteric-bot-site/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://solnce328.github.io/esoteric-bot-site/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://solnce328.github.io/esoteric-bot-site/"/>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url><loc>https://solnce328.github.io/esoteric-bot-site/en/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://solnce328.github.io/esoteric-bot-site/es/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://solnce328.github.io/esoteric-bot-site/de/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://solnce328.github.io/esoteric-bot-site/fr/</loc><changefreq>weekly</changefreq></url>
 </urlset>
