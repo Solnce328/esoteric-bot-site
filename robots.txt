@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://solnce328.github.io/esoteric-bot-site/sitemap.xml
