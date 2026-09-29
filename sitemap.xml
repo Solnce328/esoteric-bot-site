@@ -6,6 +6,8 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://solnce328.github.io/esoteric-bot-site/es/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://solnce328.github.io/esoteric-bot-site/de/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://solnce328.github.io/esoteric-bot-site/fr/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://solnce328.github.io/esoteric-bot-site/zh/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://solnce328.github.io/esoteric-bot-site/uk/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://solnce328.github.io/esoteric-bot-site/"/>
     <changefreq>weekly</changefreq>
   </url>
@@ -13,4 +15,6 @@
   <url><loc>https://solnce328.github.io/esoteric-bot-site/es/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://solnce328.github.io/esoteric-bot-site/de/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://solnce328.github.io/esoteric-bot-site/fr/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://solnce328.github.io/esoteric-bot-site/zh/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://solnce328.github.io/esoteric-bot-site/uk/</loc><changefreq>weekly</changefreq></url>
 </urlset>
